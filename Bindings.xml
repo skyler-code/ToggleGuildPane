@@ -1,0 +1,7 @@
+<Bindings>
+	<Binding name="TOGGLEGUILDPANE" category="BINDING_HEADER_INTERFACE">
+		if keystate == "down" then	
+			ToggleGuildPane();
+		end
+	</Binding>
+</Bindings>

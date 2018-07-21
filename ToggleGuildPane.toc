@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: ToggleGuildPane
+## Notes: Restores the key binding for the pre-BFA guild pane
+## Author: skylerh15
+## Version: 1.0
+ToggleGuildPane.lua
